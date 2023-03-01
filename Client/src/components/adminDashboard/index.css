@@ -1,0 +1,43 @@
+.header{
+    font-size: 30px;
+}
+
+.dashboardImg{ 
+    position: sticky !important;
+    top:100px;
+    width: 420px;
+    height: 420px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.dashboardCreateQuiz{
+    margin-top: 2rem;
+
+}
+.createQuizBtn{
+    float: left !important;
+}
+@media screen and (min-width:770px)and (max-width:1000px){
+    .dashboardImg{
+        width: 350px;
+        height: 400px;
+        margin-left: 0px;
+        top:200px;
+    }
+}
+
+@media screen and (min-width:500px)and (max-width:770px){
+    .dashboardImg{
+        width: 250px;
+        height: 300px;
+        margin-left: 0px;
+        top:200px;
+    }
+}
+
+@media screen and (max-width:500px){
+    .dashboardImgCol{
+       display: none;
+    }
+}

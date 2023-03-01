@@ -1,0 +1,19 @@
+  .createQuiz{
+    border: 1px solid rgb(182, 179, 179);
+    padding: 40px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+  }
+  .createQuestion{
+    border: 1px solid rgb(182, 179, 179);
+    padding: 20px;
+    border-radius: 2%;
+    margin-top: 30px;
+  }
+  
+  .addQuestion{
+    position:sticky;
+    top: 4rem;
+  }
+  
+  

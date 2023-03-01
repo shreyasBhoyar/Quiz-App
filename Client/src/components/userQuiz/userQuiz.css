@@ -1,0 +1,56 @@
+.previewQuiz h1{
+    text-align: center;
+}
+
+.previewQuiz h6{
+    text-align: center;
+    color: rgb(77, 77, 77);
+}
+
+.question{
+    box-shadow: 0.8px 2px 3px 1px rgba(0.3, 0.3, 0.3, 0.3);
+    border: none;
+    min-height: 30rem;  
+    padding: 2%;
+}
+
+.question h5{
+    margin-bottom: 40px;
+}
+
+.question p{
+    color: rgb(129, 127, 127);
+   
+}
+
+.questionScrollBar{
+    max-height: 72%;
+    overflow-y: scroll !important;
+    margin-top: 40px;  
+}
+
+.questionScrollBar button{
+    min-width: 60px;
+    max-width: 65px;
+    max-height: 65px;
+    min-height: 60px;
+    border-radius: 50%;
+    font-size: 1.2rem;
+}
+
+hr{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.userQuizImg{
+    height: 38%;
+    width: 38%;
+    border-radius: 40%;
+}
+
+
+
+
+
+

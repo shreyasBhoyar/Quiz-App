@@ -1,0 +1,56 @@
+.form h3 {
+      box-sizing: content-box;
+      text-align: center;
+      margin-bottom: 5rem;
+
+    }
+  
+    .User details{
+      border: 1px solid rgb(182, 179, 179);
+      border-radius: 10px;
+    }
+    
+    .createUserbtn{
+      border-radius: 10px;
+      justify-content: left;
+      float: right;
+    }
+
+    .createUserbtn:hover {
+      box-shadow: 0 0 11px rgba(33,33,33,.2); 
+    }
+    
+    .box div {
+      width: 100px;
+      height: 100px;
+     }
+    
+    .userDetailContainer {
+      width: 50em;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 5rem;
+        height: 400px;
+        width: 450px;
+        align-items: center;
+        justify-content: center;
+        border: solid grey;
+        padding: 3rem;
+        border-radius: .5em;
+
+        
+    }
+    
+    .item {
+        width: 100em;
+        border: 2px solid rgb(95, 97, 110);
+        border-radius: .5em;
+        padding: 20px;
+    }
+
+    .userModal{
+      margin-top:250px;
+    }
+       
+  
+    

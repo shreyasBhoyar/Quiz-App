@@ -1,0 +1,25 @@
+.resultContainer{
+    height:90%;
+    width: 100%;
+    background: url("../../assets/quizResult.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 5%;
+    padding-bottom: 7.1%;
+    
+}
+.resultPage{
+    margin: auto auto;
+    width: max-content;
+    box-shadow: 0.8px 2px 3px 1px rgba(0.3, 0.3, 0.3, 0.3);
+    border: 0.8px solid grey;
+    border-radius: 0.5rem;
+    padding: 4%;
+
+    background-color: white;
+}
+
+.singleLine{
+    display: flex;
+}

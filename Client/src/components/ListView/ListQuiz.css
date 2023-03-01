@@ -1,0 +1,25 @@
+
+.card{
+  margin:2rem 2rem 2rem 0;
+
+}
+
+.card:hover{
+  box-shadow: 0.8px 2px 3px 1px rgba(0.3, 0.3, 0.3, 0.3);
+}
+
+.card-button{
+  margin : 0.5rem
+}
+
+.icons{
+  display: inline-block;
+  margin : 1rem;
+  cursor: pointer;
+  color: #0275d8 !important;
+
+}
+
+.btnIcon{
+  color: #0275d8 !important;
+}

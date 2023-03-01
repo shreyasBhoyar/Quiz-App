@@ -1,0 +1,22 @@
+.parentDivError{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.parentDivError img{
+    margin-top: 8%;
+    width: 50%;
+    height: 60%;
+    border-radius: 50%;
+}
+
+.backBtn{
+    background-color: rgb(100, 68, 205);
+    color: white;
+    font-size: 1.25rem;
+    width: max-content;
+    border-radius: 10%;
+    padding: 1% 1.5%;
+    border: none;
+}

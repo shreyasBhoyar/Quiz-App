@@ -1,0 +1,29 @@
+#top {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+  }
+
+#outer{
+    border: 0.8px solid grey;
+    border-radius: 5px;
+    padding : 1rem;
+    margin : 2rem;
+    margin-top: 0;
+    box-shadow: 0.8px 2px 3px 1px rgba(0.3, 0.3, 0.3, 0.3);
+}
+
+.noRes{
+  margin:auto;
+  
+}
+
+.noRes h3{
+  font-size: 2.5rem;
+}
+
+.noResImg{
+  height: 50%;
+  width: 50%;
+}

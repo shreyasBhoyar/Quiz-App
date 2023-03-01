@@ -1,0 +1,14 @@
+.navBar{
+    position:sticky;
+    top:0;
+    z-index: 10;
+}
+
+.Navbar-text{
+    text-align: center;
+    padding-left: 40%;
+    font-size: 30px;
+}
+
+
+
